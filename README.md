@@ -1,0 +1,2 @@
+# Projeto-de-Seguran-a-Ataques-de-For-a-Bruta-com-Kali-Linux-Medusa
+Este projeto tem como objetivo simular ataques de força bruta em um ambiente controlado, utilizando o Kali Linux como máquina atacante e o Metasploitable 2 como alvo vulnerável.  Foram realizados testes em diferentes serviços (FTP, aplicação web DVWA e SMB), com foco na compreensão das vulnerabilidades e aplicação de medidas de mitigação.
